@@ -1,5 +1,5 @@
 # Project-Colony
-this is a short version of a bigger one.
+//this is a short version of a bigger one.
 
 const alpha = acende => acende.toUpperCase()
 const beta = desliga => desliga.replace('u', 0)
